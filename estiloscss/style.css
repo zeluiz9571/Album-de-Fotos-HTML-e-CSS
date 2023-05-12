@@ -39,5 +39,8 @@ section > img{
 }
 
 footer{
-
+    background-color: black;
+    color: white;
+    padding: 15px;
+    text-align: center;
 }
